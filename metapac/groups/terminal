@@ -1,0 +1,10 @@
+# Terminal: Shells and CLI/TUI programs.
+
+Arch = [
+	#Shells
+	"fish",
+	"zoxide",
+
+
+	"htop",
+]

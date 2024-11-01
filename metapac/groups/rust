@@ -1,0 +1,8 @@
+arch = [
+	"rustup",
+]
+
+rustup = [
+	"stable",
+	{ package = "stable", components = ["rust-analyzer"] },
+]

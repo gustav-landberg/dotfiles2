@@ -1,0 +1,16 @@
+# This group contains packages for my hyprland setup.
+Arch = [
+	"hyprland",
+	"xdg-desktop-portal-hyprland",
+	"hyprcursor",
+	"hyprutils-git",
+	"hyprlock",
+	"wlogout",
+	"rose-pine-hyprcursor",
+	"qt5-wayland",
+	"qt6-wayland",
+	"dunst",
+	"wireplumber",
+	"hyprpicker",
+	"hyprpolkitagent-git",
+]

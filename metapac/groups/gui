@@ -1,0 +1,17 @@
+# This group contains GUI applications
+Arch = [
+	#Terminal emulator
+	"kitty",
+	"foot",
+
+	"firefox",
+	"wofi",
+
+	
+	"nemo",
+
+	# Audio-control
+	"pavucontrol",
+
+	"discord",
+]

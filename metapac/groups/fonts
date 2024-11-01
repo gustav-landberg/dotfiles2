@@ -1,0 +1,6 @@
+# fonts and stuff
+Arch = [
+    "noto-fonts",
+    # Chinese, Japanese & Korean
+    "noto-fonts-cjk",
+]

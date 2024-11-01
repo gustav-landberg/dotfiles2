@@ -1,0 +1,9 @@
+# Various bluetooth related utilities.
+Arch = [
+	# Bluetooth protocol stack.
+	"bluez",
+	"bluez-utils",
+
+	# Bluetooth manager GUI.
+	"blueman",
+]
